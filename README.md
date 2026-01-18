@@ -12,7 +12,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSharp-00599c?style=flat&logo=c#&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unreal engine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599c?style=flat&logo=C++&logoColor=white"/>
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333333"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
@@ -23,7 +23,7 @@
 <h2 align="center">
  <b>🔧Tools🔧</b> 
 </h2>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQLWorkBench-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> 
